@@ -4,7 +4,7 @@
 
 ## 🧑‍🤝‍🧑 集体行动的逻辑 <a href="#the-logic-of-collective-action" id="the-logic-of-collective-action"></a>
 
-* [集体行动的逻辑](<README (1).md>)
+* [集体行动的逻辑](<ji-ti-xing-dong-de-luo-ji.md>)
 
 ***
 

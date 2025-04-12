@@ -30,3 +30,4 @@
 ***
 
 * [环境已经改变了](huan-jing-yi-jing-gai-bian-le.md)
+* [消费者端的变化](xiao-fei-zhe-duan-de-bian-hua.md)

@@ -31,3 +31,5 @@
 
 * [环境已经改变了](huan-jing-yi-jing-gai-bian-le.md)
 * [消费者端的变化](xiao-fei-zhe-duan-de-bian-hua.md)
+* [穿越危机，走出经营困局](chuan-yue-wei-ji-zou-chu-jing-ying-kun-ju.md)
+* [有效定位占据时间窗口](you-xiao-ding-wei-zhan-ju-shi-jian-chuang-kou.md)

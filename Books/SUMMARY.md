@@ -1,7 +1,5 @@
 # Table of contents
 
-* [Page](README.md)
+## 🧑‍🤝‍🧑 集体行动的逻辑 <a href="#the-logic-of-collective-action" id="the-logic-of-collective-action"></a>
 
-## Group 1
-
-* [Page 1](group-1/page-1.md)
+* [序](README.md)

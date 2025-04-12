@@ -11,7 +11,7 @@
 * [集团和组织理论](ji-tuan-he-zu-zhi-li-lun.md)
 * [集团规模和集团行为](ji-tuan-gui-mo-he-ji-tuan-xing-wei.md)
 
-## 社会生物学 <a href="#sociobiology" id="sociobiology"></a>
+## 🦁 社会生物学 <a href="#sociobiology" id="sociobiology"></a>
 
 * [社会生物学](sociobiology/she-hui-sheng-wu-xue.md)
 

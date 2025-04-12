@@ -1,5 +1,5 @@
 ---
-description: '译者: 陈郁'
+description: 译者：陈郁
 ---
 
 # 译者的话

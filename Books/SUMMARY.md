@@ -4,7 +4,7 @@
 
 ## 🧑‍🤝‍🧑 集体行动的逻辑 <a href="#the-logic-of-collective-action" id="the-logic-of-collective-action"></a>
 
-* [集体行动的逻辑](<ji-ti-xing-dong-de-luo-ji.md>)
+* [集体行动的逻辑](ji-ti-xing-dong-de-luo-ji.md)
 
 ***
 
@@ -22,3 +22,11 @@
 * [至20世纪末的社会生物学](zhi-20-shi-ji-mo-de-she-hui-sheng-wu-xue.md)
 * [基因的道德](ji-yin-de-dao-de.md)
 * [社会生物学的基本概念](she-hui-sheng-wu-xue-de-ji-ben-gai-nian.md)
+
+## ♥️ 人心红利
+
+* [前言](ren-xin-hong-li/qian-yan.md)
+
+***
+
+* [环境已经改变了](huan-jing-yi-jing-gai-bian-le.md)

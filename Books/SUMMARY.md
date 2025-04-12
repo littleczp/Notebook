@@ -1,8 +1,10 @@
 # Table of contents
 
+* [笨鸟多飞](README.md)
+
 ## 🧑‍🤝‍🧑 集体行动的逻辑 <a href="#the-logic-of-collective-action" id="the-logic-of-collective-action"></a>
 
-* [集体行动的逻辑](README.md)
+* [集体行动的逻辑](<README (1).md>)
 
 ***
 

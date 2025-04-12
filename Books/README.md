@@ -1,7 +1,3 @@
----
-description: the logic of collective action
----
+# 笨鸟多飞
 
-# 集体行动的逻辑
-
-摸鱼的哲学 :fish::blowfish::tropical\_fish:🦈
+悟已往之不谏，知来者之可追

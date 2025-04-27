@@ -33,3 +33,7 @@
 * [消费者端的变化](xiao-fei-zhe-duan-de-bian-hua.md)
 * [穿越危机，走出经营困局](chuan-yue-wei-ji-zou-chu-jing-ying-kun-ju.md)
 * [有效定位占据时间窗口](you-xiao-ding-wei-zhan-ju-shi-jian-chuang-kou.md)
+
+## 思考，快与慢
+
+* [序言](si-kao-kuai-yu-man/xu-yan.md)

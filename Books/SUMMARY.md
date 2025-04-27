@@ -37,3 +37,7 @@
 ## 思考，快与慢
 
 * [序言](si-kao-kuai-yu-man/xu-yan.md)
+
+***
+
+* [系统1，系统2](xi-tong-1-xi-tong-2.md)

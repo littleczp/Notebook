@@ -43,3 +43,4 @@
 * [系统1，系统2](xi-tong-1-xi-tong-2.md)
 * [启发法与偏见](qi-fa-fa-yu-pian-jian.md)
 * [过度自信与决策错误](guo-du-zi-xin-yu-jue-ce-cuo-wu.md)
+* [选择与风险](xuan-ze-yu-feng-xian.md)

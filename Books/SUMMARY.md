@@ -41,3 +41,4 @@
 ***
 
 * [系统1，系统2](xi-tong-1-xi-tong-2.md)
+* [启发法与偏见](qi-fa-fa-yu-pian-jian.md)

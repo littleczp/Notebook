@@ -1,6 +1,7 @@
 # Table of contents
 
 * [笨鸟多飞](README.md)
+  * [2025.07.07](readme/2025.07.07.md)
 
 ## 🧑‍🤝‍🧑 集体行动的逻辑 <a href="#the-logic-of-collective-action" id="the-logic-of-collective-action"></a>
 

@@ -1,7 +1,9 @@
 # Table of contents
 
 * [笨鸟多飞](README.md)
-  * [2025.07.07](readme/2025.07.07.md)
+  * [IDEA](readme/idea/README.md)
+    * [跨境电商独立站](readme/idea/kua-jing-dian-shang-du-li-zhan.md)
+  * [记录](readme/ji-lu.md)
 
 ## 🧑‍🤝‍🧑 集体行动的逻辑 <a href="#the-logic-of-collective-action" id="the-logic-of-collective-action"></a>
 

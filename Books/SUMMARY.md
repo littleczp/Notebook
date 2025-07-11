@@ -3,6 +3,7 @@
 * [笨鸟多飞](README.md)
   * [IDEA](readme/idea/README.md)
     * [跨境电商独立站](readme/idea/kua-jing-dian-shang-du-li-zhan.md)
+    * [AI小说出海](readme/idea/ai-xiao-shuo-chu-hai.md)
   * [记录](readme/ji-lu.md)
 
 ## 🧑‍🤝‍🧑 集体行动的逻辑 <a href="#the-logic-of-collective-action" id="the-logic-of-collective-action"></a>

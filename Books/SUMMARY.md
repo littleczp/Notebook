@@ -7,6 +7,7 @@
     * [AI文本勘误、表情包、字素组](readme/idea/ai-wen-ben-kan-wu-biao-qing-bao-zi-su-zu.md)
     * [电商一件代发](readme/idea/dian-shang-yi-jian-dai-fa.md)
     * [电商FBM](readme/idea/dian-shang-fbm.md)
+    * [电商小红书](readme/idea/dian-shang-xiao-hong-shu.md)
   * [记录](readme/ji-lu.md)
 
 ## 🧑‍🤝‍🧑 集体行动的逻辑 <a href="#the-logic-of-collective-action" id="the-logic-of-collective-action"></a>

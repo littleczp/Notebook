@@ -8,6 +8,7 @@
     * [电商一件代发](readme/idea/dian-shang-yi-jian-dai-fa.md)
     * [电商FBM](readme/idea/dian-shang-fbm.md)
     * [电商小红书](readme/idea/dian-shang-xiao-hong-shu.md)
+    * [web3](readme/idea/web3.md)
   * [记录](readme/ji-lu.md)
 
 ## 🧑‍🤝‍🧑 集体行动的逻辑 <a href="#the-logic-of-collective-action" id="the-logic-of-collective-action"></a>

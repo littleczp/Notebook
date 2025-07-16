@@ -2,6 +2,7 @@
 
 * [笨鸟多飞](README.md)
   * [IDEA](readme/idea/README.md)
+    * [稳定币](readme/idea/wen-ding-bi.md)
     * [跨境电商独立站](readme/idea/kua-jing-dian-shang-du-li-zhan.md)
     * [AI小说出海](readme/idea/ai-xiao-shuo-chu-hai.md)
     * [AI文本勘误、表情包、字素组](readme/idea/ai-wen-ben-kan-wu-biao-qing-bao-zi-su-zu.md)

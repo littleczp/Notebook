@@ -10,3 +10,4 @@
 | insanely          | 疯狂地        |            |
 | neatly            | 整齐地        |            |
 | plam of your hand | 你的手掌心      |            |
+| endure            | 忍受         |            |

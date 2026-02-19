@@ -2,9 +2,9 @@
 
 * [你是自己的宇宙](README.md)
 
-## Group 1
+## 产品
 
-* [记录](group-1/ji-lu.md)
+* [AI](chan-pin/ai.md)
 
 ## Group 2
 

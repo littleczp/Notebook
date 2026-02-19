@@ -13,16 +13,6 @@
 * [集团和组织理论](ji-tuan-he-zu-zhi-li-lun.md)
 * [集团规模和集团行为](ji-tuan-gui-mo-he-ji-tuan-xing-wei.md)
 
-## 🦁 社会生物学 <a href="#sociobiology" id="sociobiology"></a>
-
-* [社会生物学](sociobiology/she-hui-sheng-wu-xue.md)
-
-***
-
-* [至20世纪末的社会生物学](zhi-20-shi-ji-mo-de-she-hui-sheng-wu-xue.md)
-* [基因的道德](ji-yin-de-dao-de.md)
-* [社会生物学的基本概念](she-hui-sheng-wu-xue-de-ji-ben-gai-nian.md)
-
 ## ♥️ 人心红利
 
 * [前言](ren-xin-hong-li/qian-yan.md)
@@ -44,7 +34,3 @@
 * [启发法与偏见](qi-fa-fa-yu-pian-jian.md)
 * [过度自信与决策错误](guo-du-zi-xin-yu-jue-ce-cuo-wu.md)
 * [选择与风险](xuan-ze-yu-feng-xian.md)
-
-## STEVE JOBS
-
-* [Vocabulary](steve-jobs/vocabulary.md)

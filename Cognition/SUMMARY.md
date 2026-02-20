@@ -5,6 +5,7 @@
 ## 产品
 
 * [AI](chan-pin/ai.md)
+* [风口](chan-pin/feng-kou.md)
 
 ## 赛道
 

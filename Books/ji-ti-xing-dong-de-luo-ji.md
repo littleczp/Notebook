@@ -57,21 +57,15 @@ description: the logic of collective action
 
 <mark style="color:red;">期待采取行动时，决策群应该小一些；希望听取观点、建议时相反</mark>
 
-<details>
-
-<summary>采取行动的小集团平均成员数</summary>
-
+{% tabs %}
+{% tab title="采取行动的小集团平均成员数" %}
 6.5
+{% endtab %}
 
-</details>
-
-<details>
-
-<summary>不采取行动的小集团平均成员数</summary>
-
+{% tab title="不采取行动的小集团平均成员数" %}
 14
-
-</details>
+{% endtab %}
+{% endtabs %}
 
 ***
 

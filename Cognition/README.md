@@ -1,5 +1,5 @@
 ---
-description: 热爱生活 热爱自己
+description: 请你深入 再深入地思考
 ---
 
 # 你是自己的宇宙

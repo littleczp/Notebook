@@ -5,6 +5,7 @@
 ## 产品
 
 * [AI](chan-pin/ai.md)
+* [工作流](chan-pin/gong-zuo-liu.md)
 * [风口](chan-pin/feng-kou.md)
 * [创业思考](chan-pin/chuang-ye-si-kao.md)
 * [领导](chan-pin/ling-dao.md)
